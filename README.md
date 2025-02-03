@@ -2,6 +2,7 @@
 - OKR is objective key-results application to keep track of your goal with metrics.
 
 - Commit 1
+- Commit 2
 
 ### Features
 - ✅ Create Objectives – Users can add new objectives with a title and description.
