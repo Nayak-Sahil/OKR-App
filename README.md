@@ -1,6 +1,8 @@
 ## GoalSync OKR Application
 - OKR is objective key-results application to keep track of your goal.
 
+- New Rebase branch commit
+
 ### Features
 - ✅ Create Objectives – Users can add new objectives with a title and description.
 - ✅ Read/View Objectives – List all objectives with their details.
