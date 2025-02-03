@@ -1,5 +1,5 @@
 ## GoalSync OKR Application
-- OKR is objective key-results application to keep track of your goal.
+- OKR is objective key-results application to keep track of your goal with metrics.
 
 ### Features
 - ✅ Create Objectives – Users can add new objectives with a title and description.
